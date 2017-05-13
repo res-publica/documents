@@ -5,5 +5,5 @@
 
 - [Dockerizing a Node.js app](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
 
-- [Sequelize] (http://docs.sequelizejs.com) - *ORM pour Node.js qui semble complet, souple, et qui fonctionne avec posgres*
+- [Sequelize](http://docs.sequelizejs.com) - *ORM pour Node.js qui semble complet, souple, et qui fonctionne avec posgres*
 
