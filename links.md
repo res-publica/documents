@@ -10,3 +10,6 @@
 - [Blueprint - React-based UI Framework](https://github.com/palantir/blueprint)
 - [Plottable - for building charts](https://github.com/palantir/plottable)
 - [Linter pour Typescript (supporte Blueprint)](https://github.com/palantir/tslint)
+
+## PostgreSQL
+- [Install PostgreSQL 9 in Mac OSX via Homebrew](https://gist.github.com/lxneng/741932)
