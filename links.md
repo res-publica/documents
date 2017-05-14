@@ -17,3 +17,4 @@
 
 ## Deploy
 - [How to Deploy An Express App to Heroku with Postgresql Database Using Git](https://medium.com/@HalahSalih/how-to-deploy-an-express-app-to-heroku-with-postgresql-database-using-git-266e100d59ff)
+- [Getting Started as a Collaborator on Heroku](https://devcenter.heroku.com/articles/collab)
